@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\gui\\qld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|solutionrelative:gui\\qld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|c:\\users\\dong\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\desktop\\.net\\c#3\\asm_c#3\\gui\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|solutionrelative:gui\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\gui\\qlsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|solutionrelative:gui\\qlsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\library\\lib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|solutionrelative:library\\lib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\gui\\qld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|solutionrelative:gui\\qld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\gui\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E56113F-B1C5-4CC5-82E9-EF9958014341}|ASM_C#3.csproj|solutionrelative:gui\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\GUI\\QLSV.cs",
+              "RelativeDocumentMoniker": "GUI\\QLSV.cs",
+              "ToolTip": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\GUI\\QLSV.cs [Design]",
+              "RelativeToolTip": "GUI\\QLSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-06T15:52:51.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\GUI\\QLD.cs",
+              "RelativeDocumentMoniker": "GUI\\QLD.cs",
+              "ToolTip": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\GUI\\QLD.cs [Design]",
+              "RelativeToolTip": "GUI\\QLD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-07T03:15:36.431Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QLD.cs",
+              "DocumentMoniker": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\GUI\\QLD.cs",
+              "RelativeDocumentMoniker": "GUI\\QLD.cs",
+              "ToolTip": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\GUI\\QLD.cs",
+              "RelativeToolTip": "GUI\\QLD.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAEwE4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-06T18:35:20.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lib.cs",
+              "DocumentMoniker": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\Library\\Lib.cs",
+              "RelativeDocumentMoniker": "Library\\Lib.cs",
+              "ToolTip": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\Library\\Lib.cs",
+              "RelativeToolTip": "Library\\Lib.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAAABUBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-05T16:22:21.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLSV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\GUI\\QLSV.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\QLSV.Designer.cs",
+              "ToolTip": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\GUI\\QLSV.Designer.cs",
+              "RelativeToolTip": "GUI\\QLSV.Designer.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAqwHwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-08-06T17:07:23.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLSV.cs",
+              "DocumentMoniker": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\GUI\\QLSV.cs",
+              "RelativeDocumentMoniker": "GUI\\QLSV.cs",
+              "ToolTip": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\GUI\\QLSV.cs",
+              "RelativeToolTip": "GUI\\QLSV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-06T15:52:45.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dong\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Desktop\\.NET\\C#3\\ASM_C#3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-06T01:41:01.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

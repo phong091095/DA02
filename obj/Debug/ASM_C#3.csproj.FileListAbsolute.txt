@@ -1,0 +1,12 @@
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\obj\Debug\ASM_C#3.csproj.AssemblyReference.cache
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\obj\Debug\ASM_C_3.LoginForm.resources
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\obj\Debug\ASM_C_3.Properties.Resources.resources
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\obj\Debug\ASM_C#3.csproj.GenerateResource.cache
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\obj\Debug\ASM_C#3.csproj.CoreCompileInputs.cache
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\bin\Debug\ASM_C#3.exe.config
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\bin\Debug\ASM_C#3.exe
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\bin\Debug\ASM_C#3.pdb
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\obj\Debug\ASM_C#3.exe
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\obj\Debug\ASM_C#3.pdb
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\obj\Debug\ASM_C_3.QLSV.resources
+C:\Users\Dong\OneDrive - Đại học FPT- FPT University\Desktop\.NET\C#3\ASM_C#3\obj\Debug\ASM_C_3.QLD.resources
